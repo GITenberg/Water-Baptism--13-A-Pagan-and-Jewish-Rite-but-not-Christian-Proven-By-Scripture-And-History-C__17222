@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '7235'
     url: http://www.gutenberg.org/2009/agents/7235
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17222#Water-Baptism--13-A-Pagan-and-Jewish-Rite-but-not-Christian-Proven-By-Scripture-And-History-C_
 gutenberg_issued: '2005-12-04'
 gutenberg_type: Text
 identifiers:
