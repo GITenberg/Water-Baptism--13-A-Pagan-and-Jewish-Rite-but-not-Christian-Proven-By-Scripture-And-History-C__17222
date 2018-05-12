@@ -1,0 +1,27 @@
+_repo: Water-Baptism--13-A-Pagan-and-Jewish-Rite-but-not-Christian-Proven-By-Scripture-And-History-C__17222
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moon, James H.
+    birthdate: 1830
+    gutenberg_agent_id: '7235'
+    url: http://www.gutenberg.org/2009/agents/7235
+description: ''
+gutenberg_issued: '2005-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17222'
+  lccn: 03001866
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Baptism'
+title: "Water Baptism\r\nA Pagan and Jewish Rite but not Christian, Proven By Scripture\
+  \ And History Confirmed By The Lives Of Saints Who Were Never Baptized With Water"
+url: http://www.gutenberg.org/ebooks/17222
